@@ -28,7 +28,7 @@
 
 <td width="30%" align="center">
 
-<img src="assets/pixel-wave.png" width="220" alt="Cherry Pixel Avatar Waving"/>
+<img src="assets/ChatGPT Image Jul 9, 2026, 07_40_38 PM.png" width="220" alt="Cherry Pixel Avatar Waving"/>
 
 </td>
 </tr>
